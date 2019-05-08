@@ -1,1 +1,1 @@
-<html><body><script>alert('persistent xss')</script></body></html>
+<html><body><script type="text/javascript" >alert('persistent xss')</script></body></html>
